@@ -32,7 +32,5 @@
 [![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apache-maven)](https://maven.apache.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![PrimeFaces](https://img.shields.io/badge/PrimeFaces-black?style=for-the-badge&logo=primefaces)](https://www.primefaces.org/)
-
-### API
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia)](https://insomnia.rest/)
+
