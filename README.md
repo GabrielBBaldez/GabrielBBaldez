@@ -18,7 +18,7 @@
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)](https://golang.org/)
 
 ### Technologies & Frameworks
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
