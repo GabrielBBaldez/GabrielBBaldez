@@ -30,5 +30,14 @@
 [![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=apache-maven)](https://maven.apache.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-FF0077?style=for-the-badge&logo=graphql)](https://graphql.org/)
+[![REST](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest-api)](https://www.restapitutorial.com/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit)](https://junit.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Mockito](https://img.shields.io/badge/Mockito-999999?style=for-the-badge&logo=mockito)](https://site.mockito.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+
 
 
