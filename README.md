@@ -3,14 +3,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Hi, I'm Gabriel Baldez.<br>
-        I'm a passionate backend developer, and here I share my personal projects and solutions to various problems across different platforms. Feel free to explore!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gabriel-baldez-6a7847217">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://leetcode.com/GabrielBBaldez/">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
 
