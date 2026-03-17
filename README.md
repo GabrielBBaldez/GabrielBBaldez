@@ -53,7 +53,7 @@ ferramentas que eu mesmo quero usar.
 <tr>
 <td width="50%">
 
-**[NotifyHub](https://github.com/GabrielBBaldez/notify-hub)** &middot; `Java` `Spring Boot`
+**[NotifyHub](https://gabrielbbaldez.github.io/notify-hub-site/)** &middot; `Java` `Spring Boot`
 
 Uma API, todos os canais. Biblioteca unificada de notificacoes
 para Java e Spring Boot — email, SMS, Slack, Discord, Telegram,
@@ -64,7 +64,7 @@ WhatsApp e mais, tudo com uma unica interface.
 </td>
 <td width="50%">
 
-**[Focus Guard](https://github.com/GabrielBBaldez/focus-guard)** &middot; `JavaScript` `Chrome Extension`
+**[Focus Guard](https://gabrielbbaldez.github.io/focus-guard/)** &middot; `JavaScript` `Chrome Extension`
 
 Extensao Chrome que rastreia tempo em sites distrantes e bloqueia
 apos limites diarios. Modo foco, conquistas, historico 365 dias,
