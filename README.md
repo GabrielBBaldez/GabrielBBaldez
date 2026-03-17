@@ -13,37 +13,30 @@ que eu mesmo quero usar.
 
 ---
 
-### Stack principal
+### Stack
 
-```java
-public class Gabriel {
-    String[] languages  = { "Java", "TypeScript", "Python", "SQL" };
-    String[] backend    = { "Spring Boot", "Hibernate", "Quarkus", "Node.js" };
-    String[] data       = { "PostgreSQL", "Oracle", "MongoDB", "Redis" };
-    String[] messaging  = { "Apache Kafka" };
-    String[] cloud      = { "AWS", "Azure", "Docker" };
-    String[] frontend   = { "React", "TypeScript" };
-    String[] practices  = { "REST", "GraphQL", "TDD", "CI/CD", "Microservices" };
-}
-```
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<details>
-<summary><b>Todas as tecnologias</b></summary>
-<br>
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Linguagens** | Java &middot; TypeScript &middot; Python &middot; SQL |
-| **Backend** | Spring Boot &middot; Hibernate &middot; Quarkus &middot; Node.js &middot; Maven |
-| **Banco de Dados** | PostgreSQL &middot; Oracle &middot; MongoDB &middot; Redis |
-| **Messaging** | Apache Kafka |
-| **Cloud & DevOps** | AWS &middot; Azure &middot; Docker &middot; Flyway |
-| **Frontend** | React &middot; TypeScript |
-| **APIs** | REST &middot; GraphQL |
-| **Testes** | JUnit &middot; Mockito |
-| **Ferramentas** | Git &middot; IntelliJ IDEA |
+**Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</details>
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
