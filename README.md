@@ -10,7 +10,7 @@ ferramentas que eu mesmo quero usar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
 [![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielbbaldez.github.io/focus-guard/)
-[![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://gabrielbbaldez.github.io/notify-hub-site/)
+[![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://gabrielbbaldez.github.io/notify-hub/)
 
 ---
 
@@ -53,7 +53,7 @@ ferramentas que eu mesmo quero usar.
 <tr>
 <td width="50%">
 
-**[NotifyHub](https://gabrielbbaldez.github.io/notify-hub-site/)** &middot; `Java` `Spring Boot`
+**[NotifyHub](https://gabrielbbaldez.github.io/notify-hub/)** &middot; `Java` `Spring Boot`
 
 Uma API, todos os canais. Biblioteca unificada de notificacoes
 para Java e Spring Boot — email, SMS, Slack, Discord, Telegram,
