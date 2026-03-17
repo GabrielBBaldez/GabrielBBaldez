@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielBBaldez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&icon_color=6366f1&text_color=a1a1aa&ring_color=6366f1" width="420" />
-
 ## Gabriel Baldez
 
 **Java Developer** &middot; 6+ anos &middot; Brasil 🇧🇷
@@ -12,8 +10,6 @@ que eu mesmo quero usar.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
 [![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/GabrielBBaldez/focus-guard)
 [![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://github.com/GabrielBBaldez/notify-hub)
-
-<br clear="right"/>
 
 ---
 
@@ -99,16 +95,6 @@ Validacao e auditoria automatizada.
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBaldez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&text_color=a1a1aa&langs_count=8" width="380" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielBBaldez&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6366F1&fire=EAB308&currStreakLabel=818CF8&sideLabels=A1A1AA&dates=52525B" width="480" />
-</p>
 
 ---
 
