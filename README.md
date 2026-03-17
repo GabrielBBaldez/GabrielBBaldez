@@ -9,7 +9,7 @@ entre sistemas. Quando nao estou no backend, estou criando
 ferramentas que eu mesmo quero usar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
-[![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/GabrielBBaldez/focus-guard)
+[![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielbbaldez.github.io/focus-guard/)
 [![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://github.com/GabrielBBaldez/notify-hub)
 
 ---
