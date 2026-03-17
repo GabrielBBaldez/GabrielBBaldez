@@ -1,58 +1,117 @@
-<h1 align="center">Bem-vindos ao meu GitHub! 👋</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielBBaldez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&icon_color=6366f1&text_color=a1a1aa&ring_color=6366f1" width="420" />
+
+## Gabriel Baldez
+
+**Java Developer** &middot; 6+ anos &middot; Brasil 🇧🇷
+
+Construo sistemas que escalam — de APIs REST e microsservicos
+com Spring Boot a pipelines de eventos com Kafka.
+Quando nao estou no backend, estou criando ferramentas
+que eu mesmo quero usar.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
+[![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/GabrielBBaldez/focus-guard)
+[![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://github.com/GabrielBBaldez/notify-hub)
+
+<br clear="right"/>
+
+---
+
+### Stack principal
+
+```java
+public class Gabriel {
+    String[] languages  = { "Java", "TypeScript", "Python", "SQL" };
+    String[] backend    = { "Spring Boot", "Hibernate", "Quarkus", "Node.js" };
+    String[] data       = { "PostgreSQL", "Oracle", "MongoDB", "Redis" };
+    String[] messaging  = { "Apache Kafka" };
+    String[] cloud      = { "AWS", "Azure", "Docker" };
+    String[] frontend   = { "React", "TypeScript" };
+    String[] practices  = { "REST", "GraphQL", "TDD", "CI/CD", "Microservices" };
+}
+```
+
+<details>
+<summary><b>Todas as tecnologias</b></summary>
+<br>
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagens** | Java &middot; TypeScript &middot; Python &middot; SQL |
+| **Backend** | Spring Boot &middot; Hibernate &middot; Quarkus &middot; Node.js &middot; Maven |
+| **Banco de Dados** | PostgreSQL &middot; Oracle &middot; MongoDB &middot; Redis |
+| **Messaging** | Apache Kafka |
+| **Cloud & DevOps** | AWS &middot; Azure &middot; Docker &middot; Flyway |
+| **Frontend** | React &middot; TypeScript |
+| **APIs** | REST &middot; GraphQL |
+| **Testes** | JUnit &middot; Mockito |
+| **Ferramentas** | Git &middot; IntelliJ IDEA |
+
+</details>
+
+---
+
+### Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+
+**[NotifyHub](https://github.com/GabrielBBaldez/notify-hub)** &middot; `Java` `Spring Boot`
+
+Uma API, todos os canais. Biblioteca unificada de notificacoes
+para Java e Spring Boot — email, SMS, Slack, Discord, Telegram,
+WhatsApp e mais, tudo com uma unica interface.
+
+[![Stars](https://img.shields.io/github/stars/GabrielBBaldez/notify-hub?style=flat-square&color=eab308)](https://github.com/GabrielBBaldez/notify-hub)
+
+</td>
+<td width="50%">
+
+**[Focus Guard](https://github.com/GabrielBBaldez/focus-guard)** &middot; `JavaScript` `Chrome Extension`
+
+Extensao Chrome que rastreia tempo em sites distrantes e bloqueia
+apos limites diarios. Modo foco, conquistas, historico 365 dias,
+tema claro/escuro, pomodoro, respiracao guiada.
+
+[![Stars](https://img.shields.io/github/stars/GabrielBBaldez/focus-guard?style=flat-square&color=6366f1)](https://github.com/GabrielBBaldez/focus-guard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Questify](https://github.com/GabrielBBaldez/questify)** &middot; `TypeScript`
+
+App de treino para concursos, residencia e provas.
+Estude de forma inteligente com questoes organizadas.
+
+</td>
+<td width="50%">
+
+**[Plataforma de Integridade](https://github.com/GabrielBBaldez/Plataforma-de-Verifica-o-de-Integridade-de-Dados)** &middot; `TypeScript`
+
+Plataforma de verificacao de integridade de dados.
+Validacao e auditoria automatizada.
+
+[![Stars](https://img.shields.io/github/stars/GabrielBBaldez/Plataforma-de-Verifica-o-de-Integridade-de-Dados?style=flat-square&color=22c55e)](https://github.com/GabrielBBaldez/Plataforma-de-Verifica-o-de-Integridade-de-Dados)
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-    </i><br>
-    <a href="https://www.linkedin.com/in/gabriel-baldez-6a7847217">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBaldez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=818cf8&text_color=a1a1aa&langs_count=8" width="380" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielBBaldez&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6366F1&fire=EAB308&currStreakLabel=818CF8&sideLabels=A1A1AA&dates=52525B" width="480" />
 </p>
 
 ---
 
-### 🚀 **Languages & Technologies**:
-
-[![Java](https://img.shields.io/badge/java-black?style=flat&logo=openjdk)](https://www.java.com/pt-BR/)
-[![SQL](https://img.shields.io/badge/sql-black?style=flat&logo=mysql)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
-
----
-
-### ⚙️ **Technologies & Frameworks**:
-
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring-boot)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/react-black?style=flat&logo=react)](https://react.dev/)
-[![Docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker)](https://www.docker.com/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apache-kafka)](https://kafka.apache.org)
-[![Hibernate](https://img.shields.io/badge/Hibernate-black?style=flat&logo=hibernate)](https://hibernate.org/)
-[![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com/)
-[![Maven](https://img.shields.io/badge/Maven-black?style=flat&logo=apache-maven)](https://maven.apache.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)](https://www.postgresql.org/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=intellij-idea)](https://www.jetbrains.com/idea/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat&logo=graphql)](https://graphql.org/)
-[![REST](https://img.shields.io/badge/REST-black?style=flat&logo=rest-api)](https://www.restapitutorial.com/)
-[![JUnit](https://img.shields.io/badge/JUnit-black?style=flat&logo=junit)](https://junit.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Mockito](https://img.shields.io/badge/Mockito-black?style=flat&logo=mockito)](https://site.mockito.org/)
-[![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis)](https://redis.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-black?style=flat&logo=microsoft-azure)](https://azure.microsoft.com/)
-[![Flyway](https://img.shields.io/badge/Flyway-black?style=flat&logo=flyway)](https://flywaydb.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-black?style=flat&logo=oracle)](https://www.oracle.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)
-
----
-
-### 📈 **Some of my projects**:
-You can find several of my personal projects and code solutions in my repositories. Feel free to explore them!
-
----
-
-### 📬 **Contact**:
-If you'd like to reach out or collaborate on a project, feel free to contact me via LinkedIn or email.
-
----
-
-I hope you enjoy exploring my profile! 😄
+<p align="center">
+<sub>Feito com cafe e foco por <b>Gabriel Baldez</b></sub>
+</p>
