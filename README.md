@@ -11,6 +11,7 @@ ferramentas que eu mesmo quero usar.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
 [![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielbbaldez.github.io/focus-guard/)
 [![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://gabrielbbaldez.github.io/notify-hub/)
+[![Questify](https://img.shields.io/badge/Questify-f59e0b?style=flat-square&logo=bookopen&logoColor=white)](https://gabrielbbaldez.github.io/questify/landing.html)
 
 ---
 
@@ -77,10 +78,13 @@ tema claro/escuro, pomodoro, respiracao guiada.
 <tr>
 <td width="50%">
 
-**[Questify](https://github.com/GabrielBBaldez/questify)** &middot; `TypeScript`
+**[Questify](https://gabrielbbaldez.github.io/questify/landing.html)** &middot; `TypeScript` `React` `Firebase`
 
-App de treino para concursos, residencia e provas.
-Estude de forma inteligente com questoes organizadas.
+Plataforma de estudo com bancos de questoes para entrevistas
+tecnicas e concursos. Modos simulado/estudo, revisao de erros,
+geracao com IA, sync na nuvem e historico completo.
+
+[![Stars](https://img.shields.io/github/stars/GabrielBBaldez/questify?style=flat-square&color=f59e0b)](https://github.com/GabrielBBaldez/questify)
 
 </td>
 <td width="50%">
