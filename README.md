@@ -1,12 +1,11 @@
 ## Gabriel Baldez
 
-**Java Developer** &middot; 6+ anos &middot; Brasil 🇧🇷
+**Java Backend Engineer** &middot; 6+ years &middot; Brazil 🇧🇷
 
-Construo sistemas que escalam — de APIs REST e microsserviços
-com Spring Boot a pipelines de eventos com Kafka e RabbitMQ.
-Foco em arquiteturas escaláveis, governança de dados e integração
-entre sistemas. Quando não estou no backend, estou criando
-ferramentas que eu mesmo quero usar.
+I build systems that scale — from REST APIs and microservices with Spring Boot
+to event-driven pipelines with Kafka and RabbitMQ. I care about scalable
+architecture, data governance, and making systems talk to each other.
+When I'm not in the backend, I'm building tools I actually want to use. I also love contributing to open source — giving back to the tools and frameworks I rely on every day.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
 [![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielbbaldez.github.io/focus-guard/)
@@ -33,7 +32,7 @@ ferramentas que eu mesmo quero usar.
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**APIs & Arquitetura** &nbsp;
+**APIs & Architecture** &nbsp;
 ![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
@@ -49,7 +48,7 @@ ferramentas que eu mesmo quero usar.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Observabilidade** &nbsp;
+**Observability** &nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Monitoring](https://img.shields.io/badge/Profiling_%26_Benchmarking-555555?style=flat-square&logo=speedtest&logoColor=white)
 
@@ -59,7 +58,7 @@ ferramentas que eu mesmo quero usar.
 
 ---
 
-### Projetos em destaque
+### Featured Projects
 
 <table>
 <tr>
@@ -67,9 +66,9 @@ ferramentas que eu mesmo quero usar.
 
 **[NotifyHub](https://gabrielbbaldez.github.io/notify-hub/)** &middot; `Java` `Spring Boot`
 
-Uma API, todos os canais. Biblioteca unificada de notificações
-para Java e Spring Boot — email, SMS, Slack, Discord, Telegram,
-WhatsApp e mais, tudo com uma única interface.
+One API, every channel. A unified notification library for Java and
+Spring Boot — email, SMS, Slack, Discord, Telegram, WhatsApp and more,
+all behind a single interface.
 
 [![Stars](https://img.shields.io/github/stars/GabrielBBaldez/notify-hub?style=flat-square&color=eab308)](https://github.com/GabrielBBaldez/notify-hub)
 
@@ -78,9 +77,9 @@ WhatsApp e mais, tudo com uma única interface.
 
 **[Focus Guard](https://gabrielbbaldez.github.io/focus-guard/)** &middot; `JavaScript` `Chrome Extension`
 
-Extensão Chrome que rastreia tempo em sites distrativos e bloqueia
-após limites diários. Modo foco, conquistas, histórico de 365 dias,
-tema claro/escuro, pomodoro e respiração guiada.
+Chrome extension that tracks time on distracting sites and blocks them
+past daily limits. Focus mode, achievements, 365-day history,
+light/dark themes, pomodoro, and guided breathing.
 
 [![Stars](https://img.shields.io/github/stars/GabrielBBaldez/focus-guard?style=flat-square&color=6366f1)](https://github.com/GabrielBBaldez/focus-guard)
 
@@ -91,8 +90,8 @@ tema claro/escuro, pomodoro e respiração guiada.
 
 **[Questify](https://gabrielbbaldez.github.io/questify/landing.html)** &middot; `TypeScript` `React` `Firebase`
 
-Plataforma de estudo com bancos de questões para entrevistas técnicas e concursos.
-Modos simulado/estudo, revisão de erros, geração com IA, sync na nuvem e histórico completo.
+A study platform with question banks for technical interviews and public-sector exams.
+Mock and study modes, mistake review, AI-generated questions, cloud sync, and full history.
 
 [![Stars](https://img.shields.io/github/stars/GabrielBBaldez/questify?style=flat-square&color=f59e0b)](https://github.com/GabrielBBaldez/questify)
 
@@ -103,5 +102,5 @@ Modos simulado/estudo, revisão de erros, geração com IA, sync na nuvem e hist
 ---
 
 <p align="center">
-<sub>Feito com café e foco por <b>Gabriel Baldez</b></sub>
+<sub>Built with coffee and focus by <b>Gabriel Baldez</b></sub>
 </p>
