@@ -1,13 +1,15 @@
 ## Gabriel Baldez
 
-**Java Backend Engineer** &middot; 6+ years &middot; Brazil 🇧🇷
+**Java Developer** &middot; 6+ years &middot; Brazil 🇧🇷
 
 I build systems that scale — from REST APIs and microservices with Spring Boot
 to event-driven pipelines with Kafka and RabbitMQ. I care about scalable
 architecture, data governance, and making systems talk to each other.
-When I'm not in the backend, I'm building tools I actually want to use. I also love contributing to open source — giving back to the tools and frameworks I rely on every day.
+When I'm not in the backend, I'm building tools I actually want to use. I also
+love contributing to open source — giving back to the tools and frameworks I
+rely on every day.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-baldez-6a7847217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbbaldez/)
 [![Focus Guard](https://img.shields.io/badge/Focus_Guard-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://gabrielbbaldez.github.io/focus-guard/)
 [![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://gabrielbbaldez.github.io/notify-hub/)
 [![Questify](https://img.shields.io/badge/Questify-f59e0b?style=flat-square&logo=bookstack&logoColor=white)](https://gabrielbbaldez.github.io/questify/landing.html)
@@ -50,11 +52,18 @@ When I'm not in the backend, I'm building tools I actually want to use. I also l
 
 **Observability** &nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Profiling_%26_Benchmarking-555555?style=flat-square&logo=speedtest&logoColor=white)
+![Profiling](https://img.shields.io/badge/Profiling_%26_Benchmarking-555555?style=flat-square&logo=speedtest&logoColor=white)
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### Connect with me
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbbaldez@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbbaldez/)
 
 ---
 
@@ -79,7 +88,7 @@ all behind a single interface.
 
 Chrome extension that tracks time on distracting sites and blocks them
 past daily limits. Focus mode, achievements, 365-day history,
-light/dark themes, pomodoro, and guided breathing.
+light/dark theme, pomodoro and guided breathing.
 
 [![Stars](https://img.shields.io/github/stars/GabrielBBaldez/focus-guard?style=flat-square&color=6366f1)](https://github.com/GabrielBBaldez/focus-guard)
 
@@ -90,16 +99,14 @@ light/dark themes, pomodoro, and guided breathing.
 
 **[Questify](https://gabrielbbaldez.github.io/questify/landing.html)** &middot; `TypeScript` `React` `Firebase`
 
-A study platform with question banks for technical interviews and public-sector exams.
-Mock and study modes, mistake review, AI-generated questions, cloud sync, and full history.
+Study platform with question banks for technical interviews and public exams.
+Mock/study modes, mistake review, AI generation, cloud sync and full history.
 
 [![Stars](https://img.shields.io/github/stars/GabrielBBaldez/questify?style=flat-square&color=f59e0b)](https://github.com/GabrielBBaldez/questify)
 
 </td>
 </tr>
 </table>
-
----
 
 <p align="center">
 <sub>Built with coffee and focus by <b>Gabriel Baldez</b></sub>
