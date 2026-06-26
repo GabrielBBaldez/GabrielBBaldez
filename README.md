@@ -9,8 +9,6 @@ When I'm not in the backend, I'm building tools I actually want to use. I also
 love contributing to open source — giving back to the tools and frameworks I
 rely on every day.
 
-[![Questify](https://img.shields.io/badge/Questify-f59e0b?style=flat-square&logo=bookstack&logoColor=white)](https://gabrielbbaldez.github.io/questify/landing.html)
-
 ---
 
 ### Stack
