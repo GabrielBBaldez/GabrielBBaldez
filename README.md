@@ -1,6 +1,6 @@
 ## Gabriel Baldez
 
-**Java Developer** &middot; 6+ years &middot; Brazil 🇧🇷
+**Java Developer** &middot; Brazil 🇧🇷
 
 I build systems that scale — from REST APIs and microservices with Spring Boot
 to event-driven pipelines with Kafka and RabbitMQ. I care about scalable
