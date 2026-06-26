@@ -9,7 +9,6 @@ When I'm not in the backend, I'm building tools I actually want to use. I also
 love contributing to open source — giving back to the tools and frameworks I
 rely on every day.
 
-[![NotifyHub](https://img.shields.io/badge/NotifyHub-22c55e?style=flat-square&logo=spring&logoColor=white)](https://gabrielbbaldez.github.io/notify-hub/)
 [![Questify](https://img.shields.io/badge/Questify-f59e0b?style=flat-square&logo=bookstack&logoColor=white)](https://gabrielbbaldez.github.io/questify/landing.html)
 
 ---
