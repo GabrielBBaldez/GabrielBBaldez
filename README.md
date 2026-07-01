@@ -56,6 +56,6 @@ rely on every day.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbbaldez/)
 
 ---
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBBaldez&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBaldez&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+![Gabriel's GitHub stats](https://github-readme-stats.zohan.tech/api?username=GabrielBBaldez&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&hide=stars)
+![Top Languages](https://github-readme-stats.zohan.tech/api/top-langs/?username=GabrielBBaldez&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
 
